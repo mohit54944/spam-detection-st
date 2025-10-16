@@ -1,19 +1,9 @@
-Getting Started
-
-Follow these instructions to set up and run the application on your local machine.
-
-Prerequisites
-
-Python 3.7+
-
-pip package manager
-
 Installation
 
 Clone the repository (optional):
-If you have the project on GitHub, you can clone it. Otherwise, just make sure you are in the project directory.
+If you have the project on GitHub, you can clone it.
 
-git clone [https://github.com/YourUsername/spam-detection-streamlit-app.git](https://github.com/YourUsername/spam-detection-streamlit-app.git)
+git clone [https://github.com/mohit54944/spam-detection-st.git]
 cd spam-detection-streamlit-app
 
 
